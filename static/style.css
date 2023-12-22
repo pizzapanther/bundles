@@ -1,0 +1,17 @@
+#hero h2 {
+  font-size: clamp(30px, 50px, 60px) !important;
+}
+
+#hero h3 {
+  font-size: clamp(20px, 30px, 40px) !important;
+}
+
+.deliveries ul li {
+  font-size: clamp(1.5rem, 1.8rem, 2rem);
+  line-height: 2.8rem;
+}
+
+#single .featured-image img {
+  float: right;
+  margin-left: 20px !important;
+}
