@@ -6,6 +6,10 @@
   font-size: clamp(20px, 30px, 40px) !important;
 }
 
+.deliveries ul {
+  list-style-type: "❤️ ";
+}
+
 .deliveries ul li {
   font-size: clamp(1.5rem, 1.8rem, 2rem);
   line-height: 2.8rem;
