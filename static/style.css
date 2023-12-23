@@ -19,3 +19,7 @@
   float: right;
   margin-left: 20px !important;
 }
+
+.gallery .w-100 {
+  object-fit: cover;
+}
