@@ -1,4 +1,4 @@
-baseURL: "http://www.pizzapanther.com/bundles/"
+baseURL: "https://bundles.pizzapanther.com"
 languageCode: "en-us"
 title: "Bundles of Blessings Midwifery Care"
 theme: hugo-profile
