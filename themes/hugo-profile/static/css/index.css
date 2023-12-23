@@ -175,7 +175,7 @@ header .navbar.animate {
 #hero .hero-content > a {
     display: inline-block;
     text-decoration: none;
-    color: var(--primary-color) !important;
+    color: var(--primary-color);
 }
 
 #hero .hero-content > a::after {

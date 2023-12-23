@@ -6,6 +6,18 @@
   font-size: clamp(20px, 30px, 40px) !important;
 }
 
+#content #hero .hero-content > a {
+  color: #2e6cc7 !important;
+}
+
+#contact {
+  font-size: 150%;
+}
+
+#contact a.btn {
+  font-size: 100%;
+}
+
 .deliveries ul {
   list-style-type: "❤️ ";
 }

@@ -125,7 +125,19 @@ params:
     intro: "Meet the Midwife"
     title: "Kelly Baumgartner"
     subtitle: "Achieve the home birth of your dreams"
-    content: "Se Habla Español<br>I have been a midwife for 28 years.  During that time, I have worked in many countries promoting women’s health care. I have worked in Africa and Europe teaching classes, training midwives and working in communities to foster an atmosphere of good health for the body, mind and spirit. In the process I have delivered 2700 babies and witnessed the joy that new life brings.  I believe that every baby is a miracle from God and should be cherished. I am also an ordained minister with the Assemblies of God. My husband, Mark, and I have been married for 42 years and we have 2 adult children and 2 teen age grandchildren. When I am not delivering babies, I am teaching Bible School classes and mentoring young women according to Titus 2:3-5."
+    content: |-
+      Se Habla Español<br>
+      **Serving Texas:** Canyon Lake & Surrounding Hill Country<br><br>
+      I have been a midwife for 30 years. During that time, I have worked in many countries
+      promoting women’s health care. I have worked in Africa and Europe teaching classes,
+      training midwives and working in communities to foster an atmosphere of good health for the
+      body, mind and spirit. In the process I have delivered 2700 babies and witnessed the joy that
+      new life brings. I believe that every baby is a miracle from God and should be cherished.
+      I am also an instructor at the [ATMMTP](https://www.texasmidwives.com/) Midwifery School
+      and an ordained minister with the Assemblies of God. My husband, Mark, and I have been married
+      for 42 years and we have 2 adult children and 2 teen age grandchildren. When I am not
+      delivering babies, I am teaching Bible School classes and mentoring young women according to
+      [Titus 2:3-5](https://www.biblegateway.com/passage/?search=Titus+2%3A3-5&version=NKJV).
     image: /kelly-baumgartner.jpg
     bottomImage:
       enable: true

@@ -7,6 +7,8 @@ image: /baby-bump.jpg
 
 ## Bundle of Blessings Midwifery Care
 
+**Serving Texas:** Canyon Lake & Surrounding Hill Country
+
 The agreed upon fee includes:
 
 - Routine prenatal visits (up to 12 visits)
