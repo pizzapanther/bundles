@@ -1,8 +1,6 @@
 ---
 title: Deliveries
 description: Past deliveries by Kelly Baumgartner, LM
-toc: false
-socialShare: false
 body_class: deliveries
 image: /stork.png
 ---

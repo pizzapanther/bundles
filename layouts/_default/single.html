@@ -14,7 +14,7 @@
 <section id="single" class="{{ .Params.body_class | default "page"}}">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-sm-12 col-md-12 col-lg-9">
+      <div class="col-sm-12 col-md-12 col-lg-12">
         <div class="pr-lg-4">
           <div class="title mb-5">
             <h1 class="mb-4">{{ .Title }}</h1>
@@ -42,7 +42,7 @@
       </div>
       <div class="col-sm-12 col-md-12 col-lg-3">
         <div id="stickySideBar" class="sticky-sidebar">
-          {{ if .Params.toc | default true}}
+          {{ if .Params.toc | default false}}
           <aside class="toc">
               <h5>
                 {{ .Site.Params.terms.toc | default "Table Of Contents" }}
@@ -64,7 +64,7 @@
           </aside>
           {{end}}
 
-          {{ if .Params.socialShare | default true }}
+          {{ if .Params.socialShare | default false }}
           <aside class="social">
             <h5>{{ .Site.Params.terms.social | default "Social" }}</h5>
             <div class="social-content">
