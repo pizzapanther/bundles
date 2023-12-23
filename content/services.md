@@ -7,7 +7,7 @@ image: /baby-bump.jpg
 
 ## Bundle of Blessings Midwifery Care
 
-**Serving Texas:** Canyon Lake & Surrounding Hill Country
+**Serving Texas:** San Antonio, Canyon Lake, & Surrounding Hill Country
 
 The agreed upon fee includes:
 
