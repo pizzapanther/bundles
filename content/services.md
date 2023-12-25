@@ -29,12 +29,12 @@ This fee DOES NOT include:
 
 A 10% discount will be applied when all fees are paid by 32 weeks.
 
-All payments must be received by the 36th week of gestation, as calculated by LMP and/or ultrasound/sonogram. Bundles of Blessings Midwifery Care has the ability to receive payments through PayPal, Venmo, Cash or via Check.
+All payments must be received by the 36th week of gestation, as calculated by LMP and/or ultrasound/sonogram. Bundles of Blessings Midwifery Care has the ability to receive payments through Venmo, Cash or via Check.
 
 If payment is not paid in full by 36 weeks gestation, the contract for services will be considered null and void (unless special arrangements were agreed upon).
 
 Insurances/Health Sharing Plans
 
-We are currently taking Medishare, Christian Healthcare Ministries and Samaritan Ministries health sharing plans.
+We are currently taking Medishare, Christian Healthcare Ministries and Samaritan Ministries health sharing plans. Midwife services are also eligible for flexible spending account (FSA), and health savings account (HSA) payments.
 
 In addition, many personal health insurances may cover associated lab costs.

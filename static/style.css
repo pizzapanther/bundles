@@ -27,9 +27,18 @@
   line-height: 2.8rem;
 }
 
-#single .featured-image img {
-  float: right;
+#single .featured-image {
+  float: inline-end;
   margin-left: 20px !important;
+}
+
+#single.two-images article.page-content {
+  float: inline-start;
+}
+
+#single.two-images .featured-image img {
+  padding: 0 10px 10px 10px;
+  max-width: calc(100% - 40px);
 }
 
 .gallery .w-100 {

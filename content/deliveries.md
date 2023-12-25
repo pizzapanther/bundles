@@ -2,7 +2,9 @@
 title: Deliveries
 description: Past deliveries by Kelly Baumgartner, LM
 body_class: deliveries
+layout: two_images
 image: /stork.png
+image2: /stork2.png
 ---
 
 - Nehemiah 11/13/23
