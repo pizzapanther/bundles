@@ -1,0 +1,87 @@
+{
+  editable: [
+    ["content", ["single_image", "two_image", "gallery"]]
+  ]
+  uploads: ["static"]
+  templates: {
+    single_image: {
+      fields: {
+        title: {
+          attrs: {
+            maxlength: 70
+          }
+        }
+        description: {
+          attrs: {
+            maxlength: 255
+          }
+        }
+        body_class: {
+          required: false
+          attrs: {
+            maxlength: 40
+          }
+        }
+        image: {
+          type: image
+        }
+      }
+    }
+    two_image: {
+      fields: {
+        title: {
+          attrs: {
+            maxlength: 70
+          }
+        }
+        description: {
+          attrs: {
+            maxlength: 255
+          }
+        }
+        body_class: {
+          required: false
+          attrs: {
+            maxlength: 40
+          }
+        }
+        layout: {
+          readonly: two_images
+        }
+        image: {
+          type: image
+        }
+        image2: {
+          type: image
+        }
+      }
+    }
+    gallery: {
+      fields: {
+        title: {
+          attrs: {
+            maxlength: 70
+          }
+        }
+        description: {
+          attrs: {
+            maxlength: 255
+          }
+        }
+        body_class: {
+          required: false
+          attrs: {
+            maxlength: 40
+          }
+        }
+        layout: {
+          readonly: gallery
+        }
+        images: {
+          type: list[image]
+        }
+      }
+      content: false
+    }
+  }
+}
