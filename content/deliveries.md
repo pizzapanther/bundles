@@ -7,6 +7,7 @@ image: /stork.png
 image2: /stork2.png
 ---
 
+- Eddie 12/29/23
 - Nehemiah 11/13/23
 - Leo 10/17/23
 - Ulrich 6/5/23
