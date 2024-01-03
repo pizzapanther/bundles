@@ -11,7 +11,7 @@
 {{ end }}
 
 {{ define "main" }}
-<section id="single" class="{{ .Params.body_class | default "page"}} two-images">
+<section id="single" class="{{ .Params.body_class | default "page"}}">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-sm-12 col-md-12 col-lg-12">
@@ -30,17 +30,35 @@
               {{ end }}
             </div> -->
           </div>
-          <article class="page-content p-2">
-          {{ .Content | emojify }}
+          <article class="page-content  p-2">
+            <div class="row">
+              <div class="col-sm-12 col-md-6">
+                <img class="img-fluid mx-auto d-block" src="/stork.png" alt="boys" style="max-width: 200px;">
+                <br>
+                <h3 class="tc">Boys</h3>
+                <div style="display: flex; justify-content: center;">
+                  <ul>
+                    {{ range $i, $boy := .Params.boys }}
+                    <li>{{ $boy }}</li>
+                    {{ end }}
+                  </ul>
+                </div>
+                <br><br>
+              </div>
+              <div class="col-sm-12 col-md-6">
+                <img class="img-fluid mx-auto d-block" src="/stork2.png" alt="girls" style="max-width: 200px;">
+                <br>
+                <h3 class="tc">Girls</h3>
+                <div style="display: flex; justify-content: center;">
+                  <ul>
+                    {{ range $i, $girl := .Params.girls }}
+                    <li>{{ $girl }}</li>
+                    {{ end }}
+                  </ul>
+                </div>
+              </div>
+            </div>
           </article>
-          {{ if .Params.image }}
-          <div class="featured-image">
-            <img class="" src="{{ .Params.image }}" alt="{{ .Title }}">
-            {{ if .Params.image2 }}
-            <img class="" src="{{ .Params.image2 }}" alt="{{ .Title }}">
-            {{ end }}
-          </div>
-          {{ end }}
         </div>
       </div>
       <div class="col-sm-12 col-md-12 col-lg-3">
