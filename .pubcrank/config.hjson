@@ -3,8 +3,9 @@
     ["content", ["single_image", "two_image", "gallery"]]
   ]
   uploads: ["static"]
+  template_field: layout
   templates: {
-    single_image: {
+    single: {
       fields: {
         title: {
           attrs: {
@@ -45,9 +46,6 @@
             maxlength: 40
           }
         }
-        layout: {
-          readonly: two_images
-        }
         image: {
           type: image
         }
@@ -73,9 +71,6 @@
           attrs: {
             maxlength: 40
           }
-        }
-        layout: {
-          readonly: gallery
         }
         images: {
           type: list[image]
