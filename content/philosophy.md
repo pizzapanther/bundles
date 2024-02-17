@@ -4,7 +4,6 @@ description: Birthing philosophy of midwives
 body_class: philosophy
 image: /baby.jpg
 ---
-
 ### As midwives we believe that…
 
 1. Childbearing is a profound experience, which carries significant meaning to the woman, her family, and the community.

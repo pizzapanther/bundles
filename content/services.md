@@ -1,10 +1,9 @@
 ---
-title: Services
-description: Birthing services
+title: Birthing Services
+description: Offered midwife birthing services
 body_class: services
 image: /baby-bump.jpg
 ---
-
 ## Bundle of Blessings Midwifery Care
 
 **Serving Texas:** San Antonio, Canyon Lake, & Surrounding Hill Country

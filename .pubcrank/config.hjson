@@ -4,6 +4,7 @@
   ]
   uploads: ["static"]
   template_field: layout
+  template_default: single
   templates: {
     single: {
       fields: {
