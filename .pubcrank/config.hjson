@@ -55,6 +55,13 @@
         }
       }
     }
+    deliveries: {
+      fields: {
+        boys: {type: "list[text]"},
+        girls: {type: "list[text]"}
+      },
+      content: false
+    },
     gallery: {
       fields: {
         title: {
