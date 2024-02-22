@@ -1,7 +1,7 @@
 {
   editable: ["content"],
   choices: {
-    body_class: ["page", "philosophy", "deliveries"],
+    body_class: ["page", "philosophy", "deliveries", "services"],
   },
   uploads: ["static:"]
   template_field: layout
