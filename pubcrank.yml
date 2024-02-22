@@ -1,0 +1,59 @@
+editable:
+  - content
+choices:
+  body_class:
+    - page
+    - philosophy
+    - deliveries
+    - services
+uploads:
+  - "static:"
+template_field: layout
+template_default: single
+templates:
+  single:
+    fields:
+      title:
+        attrs:
+          maxlength: 70
+      description:
+        attrs:
+          maxlength: 255
+      body_class:
+        choices: body_class
+      image:
+        type: image
+  two_image:
+    fields:
+      title:
+        attrs:
+          maxlength: 70
+      description:
+        attrs:
+          maxlength: 255
+      body_class:
+        choices: body_class
+      image:
+        type: image
+      image2:
+        type: image
+  deliveries:
+    content: false
+    fields:
+      boys:
+        type: "list[text]"
+      girls:
+        type: "list[text]"
+  gallery:
+    content: false
+    fields:
+      title:
+        attrs:
+          maxlength: 70
+      description:
+        attrs:
+          maxlength: 255
+      body_class:
+        choices: body_class
+      images:
+        type: list[image]
