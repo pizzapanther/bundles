@@ -21,4 +21,23 @@ content:
       - name: body
         label: Body
         type: rich-text
+  - name: content2
+    label: Content2
+    type: collection
+    path: 'content'
+    view:
+      fields: [ title, description, image ]
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: description
+        label: Description
+        type: string
+      - name: image
+        label: image
+        type: image
+      - name: body
+        label: Body
+        type: rich-text
   
