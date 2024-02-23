@@ -21,8 +21,8 @@ content:
       - name: body
         label: Body
         type: rich-text
-  - name: content2
-    label: Content2
+  - name: services
+    label: Services
     type: collection
     path: 'content'
     view:
