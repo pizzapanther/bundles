@@ -7,7 +7,8 @@ choices:
     - deliveries
     - services
 uploads:
-  - "static:"
+  - dir: static
+    url: ""
 template_field: layout
 template_default: single
 templates:
