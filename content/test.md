@@ -2,8 +2,13 @@
 layout: test
 title: Test for Editor
 description: this is a test page
-date: 2024-02-27T06:00:00.000Z
+date: null
 draft: true
+atime: '16:21'
+aemail: nadfdskfj@aol.com
+anum: null
+atel: 409-383-3512
+aurl: 'http://narf.com'
 ---
 # This is a Test Page
 

@@ -34,6 +34,18 @@ templates:
           maxlength: 255
       date:
         type: datetime
+      aurl:
+        type: url
+      atel:
+        type: tel
+        attrs:
+          pattern: "[0-9]{3}-[0-9]{3}-[0-9]{4}"
+      anum:
+        type: number
+      atime:
+        type: time
+      aemail:
+        type: email
       draft:
         type: boolean
   two_image:
