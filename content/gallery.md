@@ -1,8 +1,9 @@
 ---
-title: "Image Gallery"
-description: "Stork delivery gallery"
-layout: "gallery"
+title: Image Gallery
+description: Stork delivery gallery
+layout: gallery
 images:
+  - /gallery/kit.jpeg
   - /gallery/FullSizeR-crop.jpg
   - /gallery/100_0629.jpeg
   - /gallery/17092010427.jpeg
