@@ -4,6 +4,7 @@ description: Past deliveries by Kelly Baumgartner, LM
 body_class: deliveries
 layout: deliveries
 boys:
+  - Maximilian 6/21/24
   - Eddie 12/29/23
   - Nehemiah 11/13/23
   - Leo 10/17/23

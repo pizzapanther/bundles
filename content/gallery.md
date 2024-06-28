@@ -3,6 +3,8 @@ title: Image Gallery
 description: Stork delivery gallery
 layout: gallery
 images:
+  - /gallery/IMG_4582.jpg.jpeg
+  - /gallery/IMG_1813.jpg.jpeg
   - /gallery/kit.jpeg
   - /gallery/FullSizeR-crop.jpg
   - /gallery/100_0629.jpeg
