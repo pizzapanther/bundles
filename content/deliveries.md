@@ -11,6 +11,7 @@ boys:
   - Ulrich 6/5/23
   - Apollo 8/4/22
 girls:
+  - Kalynne 12/7/24
   - Kit 5/25/24
   - Connie 4/8/24
   - Sierra 1/2/24
