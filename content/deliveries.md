@@ -12,7 +12,7 @@ boys:
   - Ulrich 6/5/23
   - Apollo 8/4/22
 girls:
-  - Amelia 6/4/25
+  - Amelia 6/3/25
   - Lucy 2/14/25
   - Kalynne 12/7/24
   - Kit 5/25/24
