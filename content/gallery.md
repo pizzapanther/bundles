@@ -3,6 +3,9 @@ title: Image Gallery
 description: Stork delivery gallery
 layout: gallery
 images:
+  - /gallery/cecile1.jpg
+  - /gallery/cecile2.jpg
+  - /gallery/cecile3.jpg
   - /gallery/agnes.jpg
   - /gallery/IMG_4582.jpg.jpeg
   - /gallery/IMG_1813.jpg.jpeg
