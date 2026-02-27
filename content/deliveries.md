@@ -12,6 +12,7 @@ boys:
   - Ulrich 6/5/23
   - Apollo 8/4/22
 girls:
+  - Elowyn 2/8/26
   - Cecile 8/25/25
   - Agnes 7/19/25
   - Amelia 6/3/25
